@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Debug component with Formik state created by Jared Palmer has been used in the app (https://github.com/jaredpalmer/formik-alicante/blob/master/src/components/Debug.js).
+
+## Running application
+
+1. Clone/download the repo.
+2. Install node modules with `npm install`.
+3. Run json-server with `npm run json:server` in the project directory.
+4. Run the app with `npm start`.
+
 ## Available Scripts
 
 In the project directory, you can run:

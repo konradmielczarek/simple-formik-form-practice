@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "title": "Test",
+      "author": "John",
+      "number": "402",
+      "content": "Dummy text",
+      "isChecked": true,
+      "id": 1
+    },
+    {
+      "title": "Test 2",
+      "author": "Joe",
+      "number": "201",
+      "content": "Another dummy text",
+      "isChecked": false,
+      "id": 2
+    },
+    {
+      "title": "Test 3",
+      "author": "Jane",
+      "number": "9",
+      "content": "Dummy content",
+      "isChecked": true,
+      "id": 3
+    }
+  ]
+}
